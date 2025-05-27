@@ -40,3 +40,4 @@ This is a **high-risk phishing attempt** combining:
 - **Malicious payload (attachment)**
 
 ---
+NOTE: I attached the sample email .eml ffile also 
