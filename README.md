@@ -6,6 +6,7 @@
 - **Date**: 22 May 2025
 - **Link**: http://yourbank-secure-login.com/verify
 - **Attachment**: secure_verification_form.zip
+- **Tool**:MXToolbox
 
 ---
 
@@ -37,12 +38,5 @@ This is a **high-risk phishing attempt** combining:
 - **Spoofed identity**
 - **Urgent psychological manipulation**
 - **Malicious payload (attachment)**
-
----
-
-## 📁 Files Included
-- `email_sample.txt`
-- `email_header.txt`
-- This `README.md`
 
 ---
