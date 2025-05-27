@@ -1,0 +1,17 @@
+From: support@yourbank-secure.com
+To: victim@example.com
+Subject: Urgent: Verify Your Account Immediately
+
+Dear Customer,
+
+We have detected unusual activity in your bank account. To ensure your funds are safe, we need you to verify your identity immediately.
+
+Click the link below to update your information:
+http://yourbank-secure-login.com/verify
+
+Failure to comply will result in a temporary suspension of your account.
+
+Thank you,
+YourBank Security Team
+
+Attachment: secure_verification_form.zip

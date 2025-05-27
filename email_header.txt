@@ -1,0 +1,15 @@
+Return-Path: <support@yourbank-secure.com>
+Received: from unknown (HELO mail.yourbank-secure.com) (203.0.113.45)
+  by smtp.fakeisp.net with SMTP; Wed, 22 May 2025 14:12:35 +0000
+Received-SPF: Fail (smtp.fakeisp.net: domain of yourbank-secure.com does not designate 203.0.113.45 as permitted sender)
+Authentication-Results: smtp.fakeisp.net;
+   dkim=fail reason="signature verification failed" header.d=yourbank-secure.com;
+   spf=fail (sender IP is 203.0.113.45) smtp.mailfrom=support@yourbank-secure.com;
+   dmarc=fail (p=REJECT) header.from=yourbank-secure.com
+Message-ID: <934jsdf934jsdfoj23f@yourbank-secure.com>
+From: "YourBank Support" <support@yourbank-secure.com>
+To: <victim@example.com>
+Subject: Urgent: Verify Your Account Immediately
+Date: Wed, 22 May 2025 14:12:25 +0000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
