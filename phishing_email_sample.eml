@@ -1,0 +1,17 @@
+From: "YourBank Support" <support@yourbank-secure.com>
+To: victim@example.com
+Subject: Urgent: Verify Your Account Immediately
+Date: Wed, 22 May 2025 14:12:25 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+  <body>
+    <p>Dear Customer,</p>
+    <p>We have detected unusual activity in your bank account. To ensure your funds are safe, we need you to verify your identity immediately.</p>
+    <p><a href="http://yourbank-secure-login.com/verify">Click here to verify</a></p>
+    <p>Failure to comply will result in a temporary suspension of your account.</p>
+    <br>
+    <p>Thank you,<br>YourBank Security Team</p>
+  </body>
+</html>
